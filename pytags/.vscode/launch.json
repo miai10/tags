@@ -17,9 +17,9 @@
                 "RedirectOutput"
             ],
             "args": [
-                "-a",
+                "-s",
                 "-i",
-                "./Extras_de_cont_2015_decembrie_RON.csv"
+                "./Extras_de_cont_2015_decembrie_RON_NEW_FORMAT.csv"
             ]
         },
         {

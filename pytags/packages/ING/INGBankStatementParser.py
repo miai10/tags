@@ -14,7 +14,6 @@ class INGBankStatementParser(BankStatementParser):
 
     def __init__(self):
         super(INGBankStatementParser, self).__init__()
-
         self.logger = logging.getLogger(self.__class__.__name__)
 
     @classmethod
